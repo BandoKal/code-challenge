@@ -9,13 +9,13 @@ This development challenge is designed to evaluate your knowledge of C#, problem
 
 You have been tasked with building a basic lab test API in C# using .net core. Lab Tests are a common test run by hospitals and could consist of glucose tests, complete blood count, lipid panel, urinalysis, etc. The API has the following user stories:
 
-##### Lab Reports: 
+##### Lab Report API Requirements: 
 1. As a user, I need the ability to create lab reports.
 2. As a user, I need the ability to read lab reports.
 3. As a user, I need the ability to modify lab reports.
 4. As a user, I need the ability to delete lab reports.
 
-##### Patients: 
+##### Patient API Requirements: 
 1. As a user, I need the ability to create patients so I can store lab results for them.
 2. As a user, I need the ability to read patients.
 3. As a user, I need the ability to modify patients.
@@ -25,6 +25,8 @@ You have been tasked with building a basic lab test API in C# using .net core. L
 ### Tasks:
 
 1. Create the models for a patient and a lab test.
+  a. For Patient, you should include common attributes that you'd find for a patient such as name, DOB, gender, etc.
+  b. For the Lab Results, you should include common attributes that you'd find in a lab result such as type, result, time of test, entered time, etc.
 2. Create the API endpoints for the CRUD operations listed in the user stories above.
 3. Using an in-memory cache, create the logic that supports the crud operations in the user stories above.
 
