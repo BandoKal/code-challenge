@@ -3,7 +3,7 @@
 
 ### Overview
 
-This development challenge is designed to evaluate your knowledge of C#, problem solving, API design, security, and documentation. Some details are left vague for you to decide the best direction to take. If you have questions, please send them to Gregory.Billings@HCAHealthcare.com so we can address them.
+This development challenge is designed to evaluate your knowledge of C#, problem solving, API design, security, and documentation. Some details are left vague for you to decide the best direction to take. If you have questions, please send them to jason.bandy@HCAHealthcare.com or cameron.farmer@HCAHealthcare.com so we can address them.
 
 ### Introduction
 
